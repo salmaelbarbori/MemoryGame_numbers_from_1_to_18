@@ -1,10 +1,9 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+# UI
+<section align = "center">
+<a href="https://github.com/salmaelbarbori/MemoryGame_numbers_from_1_to_18/blob/master/public/images/UI.PNG">
+    <img src="https://github.com/salmaelbarbori/MemoryGame_numbers_from_1_to_18/blob/master/public/images/UI.PNG" alt="Image_readme1"  width = "350px" height = "350px"/>
+</a>
+</section>
 
 ### `npm start`
 
